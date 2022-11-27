@@ -1,2 +1,5 @@
 # face-recognition-api
-back-end for face-recognition
+
+### The Server Code For The Face Recognition Web Application
+
+[Link for the Front-end](https://github.com/YoonHCho/face-recognition)
